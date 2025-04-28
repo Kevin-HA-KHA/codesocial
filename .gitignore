@@ -24,7 +24,7 @@ share/python-wheels/
 *.egg-info/
 .installed.cfg
 *.egg
-*.json
+
 MANIFEST
 
 # PyInstaller
@@ -173,3 +173,6 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+
+codificationia-2a4d3438f3bd.json
